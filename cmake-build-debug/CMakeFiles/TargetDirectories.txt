@@ -1,0 +1,3 @@
+C:/CSED_Projects/data_structures/cmake-build-debug/CMakeFiles/data_structures.dir
+C:/CSED_Projects/data_structures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CSED_Projects/data_structures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
